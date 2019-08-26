@@ -1,2 +1,2 @@
-# VSCode
-Various VSCode projects
+# Joey's VS Code Projects
+You never quite know what you'll find here...
