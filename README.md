@@ -1,0 +1,2 @@
+# VSCode
+Various VSCode projects
